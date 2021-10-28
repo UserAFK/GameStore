@@ -1,0 +1,13 @@
+E:\Repos_E\GameStore\GameStore\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+E:\Repos_E\GameStore\GameStore\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.json
+E:\Repos_E\GameStore\GameStore\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.dev.json
+E:\Repos_E\GameStore\GameStore\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+E:\Repos_E\GameStore\GameStore\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+E:\Repos_E\GameStore\GameStore\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Repos_E\GameStore\GameStore\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos_E\GameStore\GameStore\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+E:\Repos_E\GameStore\GameStore\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+E:\Repos_E\GameStore\GameStore\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Repos_E\GameStore\GameStore\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+E:\Repos_E\GameStore\GameStore\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+E:\Repos_E\GameStore\GameStore\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+E:\Repos_E\GameStore\GameStore\BussinessLogicLayer\bin\Debug\netcoreapp3.1\BussinessLogicLayer.deps.json
+E:\Repos_E\GameStore\GameStore\BussinessLogicLayer\bin\Debug\netcoreapp3.1\BussinessLogicLayer.dll
+E:\Repos_E\GameStore\GameStore\BussinessLogicLayer\bin\Debug\netcoreapp3.1\BussinessLogicLayer.pdb
+E:\Repos_E\GameStore\GameStore\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.csproj.AssemblyReference.cache
+E:\Repos_E\GameStore\GameStore\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos_E\GameStore\GameStore\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.AssemblyInfoInputs.cache
+E:\Repos_E\GameStore\GameStore\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.AssemblyInfo.cs
+E:\Repos_E\GameStore\GameStore\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Repos_E\GameStore\GameStore\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.dll
+E:\Repos_E\GameStore\GameStore\BussinessLogicLayer\obj\Debug\netcoreapp3.1\BussinessLogicLayer.pdb

@@ -1,0 +1,13 @@
+E:\Repos_E\GameStore\GameStore\Tests\bin\Debug\netcoreapp3.1\Tests.deps.json
+E:\Repos_E\GameStore\GameStore\Tests\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.json
+E:\Repos_E\GameStore\GameStore\Tests\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.dev.json
+E:\Repos_E\GameStore\GameStore\Tests\bin\Debug\netcoreapp3.1\Tests.dll
+E:\Repos_E\GameStore\GameStore\Tests\bin\Debug\netcoreapp3.1\Tests.pdb
+E:\Repos_E\GameStore\GameStore\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.AssemblyReference.cache
+E:\Repos_E\GameStore\GameStore\Tests\obj\Debug\netcoreapp3.1\Tests.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos_E\GameStore\GameStore\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfoInputs.cache
+E:\Repos_E\GameStore\GameStore\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfo.cs
+E:\Repos_E\GameStore\GameStore\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.CoreCompileInputs.cache
+E:\Repos_E\GameStore\GameStore\Tests\obj\Debug\netcoreapp3.1\Tests.dll
+E:\Repos_E\GameStore\GameStore\Tests\obj\Debug\netcoreapp3.1\Tests.pdb
+E:\Repos_E\GameStore\GameStore\Tests\obj\Debug\netcoreapp3.1\Tests.genruntimeconfig.cache

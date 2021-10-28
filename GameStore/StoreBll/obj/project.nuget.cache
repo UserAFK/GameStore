@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AEd+EgNrU5E6KF75lgox8Dz+PfefbbNvjV9TbwvHRJC/KCYjU4PfiN5LXSpkGpFjG4e1WrcIb1hfC9SbG1rJAA==",
+  "success": true,
+  "projectFilePath": "E:\\Repos_E\\GameStore\\GameStore\\StoreBll\\BussinessLogicLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marauder8\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Marauder8\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Marauder8\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\Marauder8\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
